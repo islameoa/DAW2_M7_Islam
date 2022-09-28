@@ -10,7 +10,7 @@
         <?php
             $nom = $_GET['nom'];
             echo ("<h1>Hola $nom</h1>");
-            /**EXERCICI 3 */
+            /**EXERCICI 3   */
             $num1 = $_GET['num1'];
             $num2 = $_GET['num2'];
 
